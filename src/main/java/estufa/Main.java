@@ -11,7 +11,7 @@ public class Main {
 		//DECLARADO ARRAY temperaturas COM ÍNDICE DE 24 CASAS, PARA SIMULAR AS 24 HORAS PERMITIDAS PARA O USUÁRIO INSERIR OS VALORES
 		int[] temperaturas = new int[24];                                 
 		double med = 0;
-		int temMin = 10;
+		int temMin = 30;
 		int temMax = 40;
 		int contMax = 0;
 		Scanner scanner = new Scanner(System.in);
