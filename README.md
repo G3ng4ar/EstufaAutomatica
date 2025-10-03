@@ -26,4 +26,4 @@ Código Java desenvolvido para monitorar e registrar as temperaturas de uma estu
 
 ### Execução via JAR
 ```bash
-java -jar EstufaControl.jar
+java -jar EstufaAt.jar
